@@ -2,7 +2,7 @@
 
 A minimal full-stack meeting scheduling app built with **FastAPI (backend)** and **React (frontend)**.
 
-## Features
+## 🔧 Features
 
 - Submit multiple users' busy schedules
 - Suggest available common meeting slots based on given duration

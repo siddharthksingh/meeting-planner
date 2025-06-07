@@ -16,6 +16,8 @@ A minimal full-stack meeting scheduling app built with **FastAPI (backend)** and
 | Backend     | FastAPI        |
 | Frontend    | React          |
 
+## Questions
+
 1. How exactly did you use AI while building this? List tools, prompts, successes, and failures.\
 I devised the structure of the project and queried ChatGPT based on the required features. Didn't really face any failures as this was quite simple.
 
